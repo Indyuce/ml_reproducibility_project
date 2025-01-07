@@ -1,0 +1,9 @@
+
+# MNIST data
+data
+
+# PyTorch model
+*.pt
+
+# NumPy arrays
+*.npy
