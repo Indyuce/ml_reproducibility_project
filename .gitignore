@@ -7,3 +7,5 @@ data
 
 # NumPy arrays
 *.npy
+
+*.back
